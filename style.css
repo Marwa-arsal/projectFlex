@@ -1,0 +1,183 @@
+.main-background{
+    height: 650px;
+    width: 100%;
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2024/09/stsci-h-p2042b-f-sq.png);
+    text-align: bottom left;
+    color: white;
+}
+.text{
+   padding: 50px;
+   padding-top: 180px;
+}
+.sub{
+    font-weight: weight;
+}
+
+.text h1{
+    font-weight: bold;
+    font-size: 70px;
+    width: 50%;
+}
+.para1{
+    width: 50%;
+
+}
+.parab{
+    font-weight: bold;
+}
+.sub{
+    letter-spacing: 3px;
+}
+ul li{
+    display: inline-block;
+}
+/* .header{
+    display: inline-block;
+} */
+.nasa-logo{
+    margin-left: 160px;
+}
+.main{
+    margin-left: 36px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    text-align: left;
+    font-weight: bold;
+}
+.imp{
+   /* text-align: right; */
+   margin-left: 665px;
+   margin-bottom: 10px;
+}
+.box{
+    height: 500px;
+    /* background-color: brown; */
+}
+.one img{
+    /* background-color: blue; */
+    /* height: 400px; */
+    height: 400px;
+    width: 555px;
+
+}
+.two{
+    /* background-color: white;
+    height: 400px;
+    padding-right: 2px; */
+}
+.two img{
+    height: 400px;
+    width: 400px;
+    padding-left: 0px;
+}
+.three{
+    background-color: white;
+    height: 400px;
+}
+.four{
+    background-color: rgb(210, 166, 172);
+    height: 190px;
+    margin-bottom: 10px;
+}
+.four img{
+    height: 190px;
+    width: 273px;
+}
+.five{
+    background-color: rgb(68, 55, 57);
+    height: 190px;
+}
+.five img{
+    height: 200px;
+    width: 273px;
+    
+}
+.main2{
+    height: 200px;
+   display: inline-block;
+}
+.minibox1 img{
+    height: 100px;
+    width: 100px;
+}
+.minibox2 img{
+    height: 100px;
+    width: 100px;
+}
+.minibox3 img{
+    height: 100px;
+    width: 100px;
+}
+.minibox4 img{
+    height: 100px;
+    width: 100px;
+}
+/* .vidieo1{
+    height: 400px;
+    width: 100%;
+} */
+ /* .header2{
+   padding-top: 0%;
+   margin-top: 0%;
+ }
+ .one1{
+    background-color: aquamarine;
+ }
+ .two2{
+    background-color: rgb(3, 3, 3);
+ }
+ .three3{
+    background-color: rgb(48, 23, 173);
+ }
+ .four4{
+    background-color: rgb(229, 74, 136);
+ } */
+  .pic1{
+    height: 500px;
+    width: 50%;
+  }
+  .mainflex{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .box1{
+    background-color: green;
+    background-image: url(https://assets.science.nasa.gov/content/dam/science/missions/lucy/djencounter_movie_release_v2.gif);
+    background-size: 100%;
+    background-size: cover;
+    height: 350px;
+    width: 550px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .box2{
+    background-color: rgb(94, 133, 94);
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/spacewalk-4.jpg?resize=1536,1024);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .box3{
+    background-color: rgb(94, 133, 94);
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/horseshoe-crabs-at-nasa-kennedy.png);
+    background-size: 100%;
+    height: 167px;
+    width: 300px;
+    margin-left: 10px;
+    margin-bottom: 18px;
+    margin-top: 10px;
+  }
+  .box4{
+    background-color: rgb(94, 133, 94);
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/nhq202504200003.jpg?resize=1536,867);
+    background-size: 100%;
+    height: 165px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
+
